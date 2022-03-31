@@ -1,3 +1,3 @@
 <?php
-echo "This is hello file";
+echo "This is a hello file";
 ?>
